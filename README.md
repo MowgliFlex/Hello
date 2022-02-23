@@ -5,7 +5,7 @@
 
 - :man_technologist: My project is [PerfCloud](https://perfcloud.fr)
 
-- :mailbox: You can join me on discord ** Mowgli#9999**
+- :mailbox: You can join me on discord **Mowgli#9999**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
